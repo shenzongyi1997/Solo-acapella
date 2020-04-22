@@ -1,0 +1,39 @@
+README
+
+I. File list
+------------
+main.py 			running it to start
+audio_processing.py 		preprocessing audio signal
+yin.py 				implementing YIN algorithm 
+notes.txt			notes information generated
+visualization.jpg 			
+convert2notes.py 		converting frequency to note number
+write2midi.py 			writing notes to midi file
+new_song.mid 			midi file generated 
+play_midi.py			implementing playback function
+recording.py			implementing recording function
+recording_play.py		implementing recording and play function
+recording_pause.py		implementing recording and stoping recording function
+record.wav			generated wav file
+this readMe file
+
+II. function
+------------
+1.record humming			click 'record'		
+2.stop record humming(not finished)	click 'stop record'
+3.play recorded tune(has bug)		click 'play wav'
+4.generate midi file			click 'start'
+5.play midi file			click 'play'
+6.parameter setting 			enter what you want in the box
+
+III.
+------------
+any supplement information
+
+
+
+
+ 
+
+
+
